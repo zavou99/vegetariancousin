@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(9, 9, 9);
+}
+
+img {
+    
+    width: 800px;
+    height: 540px;
+    border-radius: 2%;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+  }
+
+  .icon > i{
+
+    color: aliceblue;
+    display: inline-block;
+    padding-right: 10px;
+    font-size: 80px;
+  
+  
+  }
+  .icon {
+    color: rgb(25, 228, 69);
+    font-family: 'Amatic SC', cursive;
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+u {
+    text-underline-offset: 10px;
+}
+
+p,ul,a{
+    color: aliceblue;
+}
+
+i{
+    padding-right: 10px;
+}
